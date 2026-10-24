@@ -1,10 +1,6 @@
 <a href="https://www.linkedin.com/in/ammar-alkazaz/">
-  <img src="https://raw.githubusercontent.com/ammar-alkazaz/ammar-alkazaz/main/assets/banner.jpg" alt="A business view of growth. Connecting strategy, marketing and sales." width="100%" />
+  <img src="https://raw.githubusercontent.com/ammar-alkazaz/ammar-alkazaz/main/assets/header.svg" alt="Ammar Alkazaz. Marketing Growth Strategist. Paid media, lead generation, marketing automation and content systems, built to run with minimal human touch." width="100%" />
 </a>
-
-<h1 align="center">Ammar Alkazaz</h1>
-
-<p align="center"><strong>Marketing Growth Strategist</strong><br />Paid media, lead generation, marketing automation and content systems, built to run with minimal human touch.</p>
 
 <p align="center">
   <picture>
