@@ -15,10 +15,6 @@
   <img src="https://img.shields.io/badge/Cairo%2C%20Egypt-Remote%20on%20US%2C%20UK%20and%20EU%20hours-364FCF?style=for-the-badge&labelColor=231628" alt="Cairo, Egypt. Remote on US, UK and EU hours" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ammar-alkazaz/ammar-alkazaz/main/assets/status.svg" alt="Open to remote marketing roles. US, UK and EU hours." />
-</p>
-
 I build the systems behind the numbers. Paid media, lead generation, marketing automation and content systems, with enough engineering discipline that they keep running when I step away.
 
 Most recently I was the sole marketer for a US web design and development agency, remote on US Eastern hours. I built its marketing infrastructure from zero, documented every system as a playbook, and handed it over to the people who run it now. Before that I ran my own B2C digital marketing agency and spent several years in sales development, which is why everything I build starts from what a salesperson can actually close.
