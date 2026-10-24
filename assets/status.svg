@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="34" viewBox="0 0 460 34" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif" role="img" aria-label="Open to remote marketing roles. US, UK and EU hours.">
+<rect x="0.5" y="0.5" width="459" height="33" rx="17" fill="#FFF9F3" stroke="#BCA7C5" stroke-width="1.4"/>
+<circle cx="20" cy="17.0" r="5" fill="#364FCF"/>
+<circle cx="20" cy="17.0" r="5" fill="none" stroke="#364FCF" stroke-width="1.5">
+  <animate attributeName="r" values="5;11" dur="1.8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.7;0" dur="1.8s" repeatCount="indefinite"/>
+</circle>
+<text x="36" y="21.5" font-size="13" font-weight="600" fill="#231628">Open to remote marketing roles. US, UK and EU hours.</text>
+</svg>
